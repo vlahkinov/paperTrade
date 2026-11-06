@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/-src/">
+    <Project Path="-src/PaperTrade.Api/PaperTrade.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/PaperTrade.Api/PaperTrade.Api.csproj" />
+  </Folder>
+</Solution>
